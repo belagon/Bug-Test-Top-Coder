@@ -9,7 +9,7 @@ Bug #1:
  Bug #2:
  |Content Bug, word missing.
  | Steps: Check "Are you Talent?" section below the "Get Started" button.
- | Actual Result:  the spelling is "Are you Talent?, wich sounds weird and a word is missing".
+ | Actual Result:  the spelling is "Are you Talent?, wich sounds weird and appears a word is missing".
  | Expected Result:  There should be added an "a" after the world "you", so It would be "Are you a Talent?".
  | [https://imgur.com/a/uVXNWay](https://imgur.com/a/93trBNJ)
  | Information:<DELL Laptop, Windows 10 and Mozilla Firefox>
